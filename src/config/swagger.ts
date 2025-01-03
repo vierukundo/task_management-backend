@@ -12,6 +12,10 @@ const swaggerDefinition: OpenAPIV3.Document = {
       url: "http://localhost:4000",
       description: "Development server",
     },
+    {
+      url: "https://task-management-backend-wnck.onrender.com",
+      description: "Development server",
+    },
   ],
   components: {
     securitySchemes: {
